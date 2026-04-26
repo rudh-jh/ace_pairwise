@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "ablation_mode": "diag_only",
+  "description": "Only keep diagonal residue-level physicochemical and terminal channels.",
+  "n_channels": 15,
+  "best_epoch": 8,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.163550853729248,
+  "val_loss": 0.34768662850062054,
+  "val_rmse": 1.163550853729248,
+  "val_mae": 0.9123997688293457,
+  "val_spearman": 0.4684011618451501,
+  "test_loss": 0.28313008447488147,
+  "test_rmse": 1.1500499248504639,
+  "test_mae": 0.8996215462684631,
+  "test_spearman": 0.37890611336590235
+}

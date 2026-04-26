@@ -1,0 +1,17 @@
+{
+  "seed": 62,
+  "ablation_mode": "no_pairwise",
+  "description": "Remove all channels whose names start with pair_.",
+  "n_channels": 18,
+  "best_epoch": 5,
+  "best_monitor": "val_rmse",
+  "best_metric": 0.9924794435501099,
+  "val_loss": 0.3065462311108907,
+  "val_rmse": 0.9924794435501099,
+  "val_mae": 0.7454593181610107,
+  "val_spearman": 0.4100639494859868,
+  "test_loss": 0.2986973226070404,
+  "test_rmse": 1.039430022239685,
+  "test_mae": 0.7807681560516357,
+  "test_spearman": 0.44583446348475125
+}

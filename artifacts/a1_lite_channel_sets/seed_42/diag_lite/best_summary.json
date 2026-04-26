@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "lite_mode": "diag_lite",
+  "description": "Only keep diagonal residue-level physicochemical and terminal channels.",
+  "n_channels": 15,
+  "best_epoch": 8,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.163551688194275,
+  "val_loss": 0.34768567482630414,
+  "val_rmse": 1.163551688194275,
+  "val_mae": 0.9123878479003906,
+  "val_spearman": 0.4684011618451501,
+  "test_loss": 0.28313155472278595,
+  "test_rmse": 1.1500699520111084,
+  "test_mae": 0.899658203125,
+  "test_spearman": 0.37890611336590235
+}

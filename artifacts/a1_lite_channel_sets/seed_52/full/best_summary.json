@@ -1,0 +1,17 @@
+{
+  "seed": 52,
+  "lite_mode": "full",
+  "description": "Use all A1 relation tensor channels.",
+  "n_channels": 36,
+  "best_epoch": 4,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.1424250602722168,
+  "val_loss": 0.25638865182797116,
+  "val_rmse": 1.1424250602722168,
+  "val_mae": 0.8655812740325928,
+  "val_spearman": 0.39996850643212256,
+  "test_loss": 0.24198543032010397,
+  "test_rmse": 1.0801578760147095,
+  "test_mae": 0.8062092661857605,
+  "test_spearman": 0.6375987474529188
+}

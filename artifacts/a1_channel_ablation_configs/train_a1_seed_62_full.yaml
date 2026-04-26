@@ -1,0 +1,32 @@
+paths:
+  main_csv: data/final/model_input/a1_main_2_3_model_input_v1.csv
+  aux_csv: data/final/model_input/a1_aux_4_5_model_input_v1.csv
+  split_dir: data/final/splits/seed_62
+  artifacts_dir: artifacts/a1_channel_ablation/seed_62/full
+  baseline_artifacts_dir: artifacts/baselines_v1
+  a1flat_artifacts_dir: artifacts/a1flat_baselines_v1
+split:
+  seed: 62
+  val_ratio: 0.15
+  test_ratio: 0.15
+model:
+  hidden_dim: 64
+  num_blocks: 2
+  dropout: 0.1
+  se_reduction: 4
+  attention_dropout: 0.0
+train:
+  batch_size: 32
+  epochs: 30
+  lr: 0.001
+  weight_decay: 0.0001
+  huber_delta: 0.5
+  num_workers: 0
+  device: auto
+early_stopping:
+  enabled: true
+  patience: 10
+  min_delta: 0.0
+selection:
+  monitor: val_rmse
+  mode: min

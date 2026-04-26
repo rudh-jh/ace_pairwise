@@ -1,0 +1,14 @@
+{
+  "seed": 62,
+  "variant_name": "A1FlatMLP-wide",
+  "variant_cfg": {
+    "hidden_dims": [
+      256,
+      128
+    ],
+    "dropout": 0.3,
+    "lr": 0.0008,
+    "weight_decay": 0.0002
+  },
+  "input_dim": 906
+}

@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "variant": "A1FlatMLP-small",
+  "input_dim": 906,
+  "hidden_dims": "[128, 64]",
+  "dropout": 0.2,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "best_epoch": 4,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.22602117061615,
+  "val_loss": 9.435091733932495,
+  "val_rmse": 1.22602117061615,
+  "val_mae": 1.0380314588546753,
+  "val_spearman": 0.4961682472677437,
+  "test_loss": 8.209028760592142,
+  "test_rmse": 1.150892972946167,
+  "test_mae": 0.9153902530670166,
+  "test_spearman": 0.4435560066466101
+}

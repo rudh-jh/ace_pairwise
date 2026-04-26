@@ -1,0 +1,17 @@
+{
+  "seed": 52,
+  "lite_mode": "diag_core_terminal_pair_lite",
+  "description": "Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.",
+  "n_channels": 28,
+  "best_epoch": 3,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.1043318510055542,
+  "val_loss": 0.2792411098877589,
+  "val_rmse": 1.1043318510055542,
+  "val_mae": 0.8659966588020325,
+  "val_spearman": 0.3914652389725421,
+  "test_loss": 0.2876043419043223,
+  "test_rmse": 1.1355797052383423,
+  "test_mae": 0.8759128451347351,
+  "test_spearman": 0.5568862801221562
+}

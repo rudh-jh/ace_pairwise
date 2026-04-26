@@ -1,0 +1,156 @@
+﻿lite_mode,description,channel_index,channel_name
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,0,diag_hydrophobicity
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,1,diag_polarity
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,2,diag_charge
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,3,diag_aromaticity
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,4,diag_volume
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,5,diag_hbond_donor
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,6,diag_hbond_acceptor
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,7,diag_pro_flag
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,8,diag_gly_flag
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,9,diag_branched_chain_flag
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,10,diag_aromatic_residue_flag
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,11,diag_is_n_terminal
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,12,diag_is_c_terminal
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,13,diag_is_internal
+diag_lite,Only keep diagonal residue-level physicochemical and terminal channels.,14,diag_valid_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,0,diag_hydrophobicity
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,1,diag_polarity
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,2,diag_charge
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,3,diag_aromaticity
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,4,diag_volume
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,5,diag_hbond_donor
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,6,diag_hbond_acceptor
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,7,diag_pro_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,8,diag_gly_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,9,diag_branched_chain_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,10,diag_aromatic_residue_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,11,diag_is_n_terminal
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,12,diag_is_c_terminal
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,13,diag_is_internal
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,14,diag_valid_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,26,pair_terminal_interaction_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,27,pair_end_to_end_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,28,pair_end_to_internal_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,29,pair_forward_order_flag
+diag_terminal_pair_lite,Keep diagonal channels plus terminal/order pairwise structural channels.,30,pair_reverse_order_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,0,diag_hydrophobicity
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,1,diag_polarity
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,2,diag_charge
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,3,diag_aromaticity
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,4,diag_volume
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,5,diag_hbond_donor
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,6,diag_hbond_acceptor
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,7,diag_pro_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,8,diag_gly_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,9,diag_branched_chain_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,10,diag_aromatic_residue_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,11,diag_is_n_terminal
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,12,diag_is_c_terminal
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,13,diag_is_internal
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,14,diag_valid_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,15,pair_hydrophobicity_sum
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,16,pair_hydrophobicity_abs_diff
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,17,pair_hydrophobicity_signed_diff
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,18,pair_charge_product
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,20,pair_polarity_abs_diff
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,21,pair_volume_abs_diff
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,24,pair_aromatic_pair_flag
+diag_core_pair_lite,Keep diagonal channels plus selected core pairwise physicochemical channels.,25,pair_donor_acceptor_compatibility
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,0,diag_hydrophobicity
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,1,diag_polarity
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,2,diag_charge
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,3,diag_aromaticity
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,4,diag_volume
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,5,diag_hbond_donor
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,6,diag_hbond_acceptor
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,7,diag_pro_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,8,diag_gly_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,9,diag_branched_chain_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,10,diag_aromatic_residue_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,11,diag_is_n_terminal
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,12,diag_is_c_terminal
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,13,diag_is_internal
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,14,diag_valid_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,15,pair_hydrophobicity_sum
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,16,pair_hydrophobicity_abs_diff
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,17,pair_hydrophobicity_signed_diff
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,18,pair_charge_product
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,20,pair_polarity_abs_diff
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,21,pair_volume_abs_diff
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,24,pair_aromatic_pair_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,25,pair_donor_acceptor_compatibility
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,26,pair_terminal_interaction_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,27,pair_end_to_end_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,28,pair_end_to_internal_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,29,pair_forward_order_flag
+diag_core_terminal_pair_lite,Keep diagonal channels plus selected core pairwise and terminal/order pairwise channels.,30,pair_reverse_order_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",0,diag_hydrophobicity
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",1,diag_polarity
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",2,diag_charge
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",3,diag_aromaticity
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",4,diag_volume
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",5,diag_hbond_donor
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",6,diag_hbond_acceptor
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",7,diag_pro_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",8,diag_gly_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",9,diag_branched_chain_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",10,diag_aromatic_residue_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",11,diag_is_n_terminal
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",12,diag_is_c_terminal
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",13,diag_is_internal
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",14,diag_valid_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",15,pair_hydrophobicity_sum
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",16,pair_hydrophobicity_abs_diff
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",17,pair_hydrophobicity_signed_diff
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",18,pair_charge_product
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",19,pair_charge_signed_diff
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",20,pair_polarity_abs_diff
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",21,pair_volume_abs_diff
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",22,pair_both_hydrophobic_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",23,pair_both_bulky_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",24,pair_aromatic_pair_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",25,pair_donor_acceptor_compatibility
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",26,pair_terminal_interaction_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",27,pair_end_to_end_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",28,pair_end_to_internal_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",29,pair_forward_order_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",30,pair_reverse_order_flag
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",31,pair_substitution_similarity_proxy
+diag_pair_no_heur,"Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",32,pair_residue_class_compatibility
+full,Use all A1 relation tensor channels.,0,diag_hydrophobicity
+full,Use all A1 relation tensor channels.,1,diag_polarity
+full,Use all A1 relation tensor channels.,2,diag_charge
+full,Use all A1 relation tensor channels.,3,diag_aromaticity
+full,Use all A1 relation tensor channels.,4,diag_volume
+full,Use all A1 relation tensor channels.,5,diag_hbond_donor
+full,Use all A1 relation tensor channels.,6,diag_hbond_acceptor
+full,Use all A1 relation tensor channels.,7,diag_pro_flag
+full,Use all A1 relation tensor channels.,8,diag_gly_flag
+full,Use all A1 relation tensor channels.,9,diag_branched_chain_flag
+full,Use all A1 relation tensor channels.,10,diag_aromatic_residue_flag
+full,Use all A1 relation tensor channels.,11,diag_is_n_terminal
+full,Use all A1 relation tensor channels.,12,diag_is_c_terminal
+full,Use all A1 relation tensor channels.,13,diag_is_internal
+full,Use all A1 relation tensor channels.,14,diag_valid_flag
+full,Use all A1 relation tensor channels.,15,pair_hydrophobicity_sum
+full,Use all A1 relation tensor channels.,16,pair_hydrophobicity_abs_diff
+full,Use all A1 relation tensor channels.,17,pair_hydrophobicity_signed_diff
+full,Use all A1 relation tensor channels.,18,pair_charge_product
+full,Use all A1 relation tensor channels.,19,pair_charge_signed_diff
+full,Use all A1 relation tensor channels.,20,pair_polarity_abs_diff
+full,Use all A1 relation tensor channels.,21,pair_volume_abs_diff
+full,Use all A1 relation tensor channels.,22,pair_both_hydrophobic_flag
+full,Use all A1 relation tensor channels.,23,pair_both_bulky_flag
+full,Use all A1 relation tensor channels.,24,pair_aromatic_pair_flag
+full,Use all A1 relation tensor channels.,25,pair_donor_acceptor_compatibility
+full,Use all A1 relation tensor channels.,26,pair_terminal_interaction_flag
+full,Use all A1 relation tensor channels.,27,pair_end_to_end_flag
+full,Use all A1 relation tensor channels.,28,pair_end_to_internal_flag
+full,Use all A1 relation tensor channels.,29,pair_forward_order_flag
+full,Use all A1 relation tensor channels.,30,pair_reverse_order_flag
+full,Use all A1 relation tensor channels.,31,pair_substitution_similarity_proxy
+full,Use all A1 relation tensor channels.,32,pair_residue_class_compatibility
+full,Use all A1 relation tensor channels.,33,heur_c_terminal_favorable_flag
+full,Use all A1 relation tensor channels.,34,heur_n_terminal_favorable_flag
+full,Use all A1 relation tensor channels.,35,heur_terminal_hydrophobic_pattern_flag

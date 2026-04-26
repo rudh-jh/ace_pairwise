@@ -1,0 +1,17 @@
+{
+  "seed": 62,
+  "ablation_mode": "no_ace_heuristic",
+  "description": "Remove ACE-inspired heuristic channels only.",
+  "n_channels": 33,
+  "best_epoch": 6,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.0054566860198975,
+  "val_loss": 0.2790889044602712,
+  "val_rmse": 1.0054566860198975,
+  "val_mae": 0.7239145636558533,
+  "val_spearman": 0.32898546922323724,
+  "test_loss": 0.27520452439785004,
+  "test_rmse": 0.987507164478302,
+  "test_mae": 0.7468063831329346,
+  "test_spearman": 0.48805410009197636
+}

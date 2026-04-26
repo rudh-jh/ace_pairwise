@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "ablation_mode": "full",
+  "description": "Use all A1 relation tensor channels.",
+  "n_channels": 36,
+  "best_epoch": 18,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.1637792587280273,
+  "val_loss": 0.3423568109671275,
+  "val_rmse": 1.1637792587280273,
+  "val_mae": 0.8946676254272461,
+  "val_spearman": 0.4547013333096172,
+  "test_loss": 0.36017949382464093,
+  "test_rmse": 1.2877531051635742,
+  "test_mae": 0.9990559220314026,
+  "test_spearman": 0.1768905063783373
+}

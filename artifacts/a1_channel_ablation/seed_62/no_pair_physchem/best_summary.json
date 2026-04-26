@@ -1,0 +1,17 @@
+{
+  "seed": 62,
+  "ablation_mode": "no_pair_physchem",
+  "description": "Remove pairwise physicochemical sum/diff/compatibility channels.",
+  "n_channels": 23,
+  "best_epoch": 2,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.0179033279418945,
+  "val_loss": 0.3195654849211375,
+  "val_rmse": 1.0179033279418945,
+  "val_mae": 0.7668466567993164,
+  "val_spearman": 0.32846057617017665,
+  "test_loss": 0.31379689772923786,
+  "test_rmse": 1.0585427284240723,
+  "test_mae": 0.8381749391555786,
+  "test_spearman": 0.43446158168006976
+}

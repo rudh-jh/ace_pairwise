@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "ablation_mode": "pair_only",
+  "description": "Only keep off-diagonal pairwise relation channels.",
+  "n_channels": 18,
+  "best_epoch": 11,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.1672207117080688,
+  "val_loss": 0.3677818477153778,
+  "val_rmse": 1.1672207117080688,
+  "val_mae": 0.9140623807907104,
+  "val_spearman": 0.43650488161491185,
+  "test_loss": 0.2925675908724467,
+  "test_rmse": 1.1465290784835815,
+  "test_mae": 0.9289587736129761,
+  "test_spearman": 0.44472827805386517
+}

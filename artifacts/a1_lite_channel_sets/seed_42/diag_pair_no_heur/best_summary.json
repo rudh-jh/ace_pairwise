@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "lite_mode": "diag_pair_no_heur",
+  "description": "Keep all diagonal and all pairwise channels, but remove ACE heuristic channels.",
+  "n_channels": 33,
+  "best_epoch": 18,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.140786051750183,
+  "val_loss": 0.3201201756795247,
+  "val_rmse": 1.140786051750183,
+  "val_mae": 0.8615638613700867,
+  "val_spearman": 0.5643699479465527,
+  "test_loss": 0.3196679304043452,
+  "test_rmse": 1.273377537727356,
+  "test_mae": 0.9521610736846924,
+  "test_spearman": 0.3162508311363449
+}

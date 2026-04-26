@@ -1,0 +1,17 @@
+{
+  "seed": 62,
+  "lite_mode": "diag_core_pair_lite",
+  "description": "Keep diagonal channels plus selected core pairwise physicochemical channels.",
+  "n_channels": 23,
+  "best_epoch": 2,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.0264703035354614,
+  "val_loss": 0.3258850524822871,
+  "val_rmse": 1.0264703035354614,
+  "val_mae": 0.7811871767044067,
+  "val_spearman": 0.3065375429873486,
+  "test_loss": 0.31272539496421814,
+  "test_rmse": 1.0583785772323608,
+  "test_mae": 0.8445665240287781,
+  "test_spearman": 0.4149527151997316
+}

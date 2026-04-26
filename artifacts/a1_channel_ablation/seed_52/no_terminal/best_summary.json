@@ -1,0 +1,17 @@
+{
+  "seed": 52,
+  "ablation_mode": "no_terminal",
+  "description": "Remove all terminal-related and heuristic terminal channels.",
+  "n_channels": 28,
+  "best_epoch": 2,
+  "best_monitor": "val_rmse",
+  "best_metric": 1.1356195211410522,
+  "val_loss": 0.3161294062932332,
+  "val_rmse": 1.1356195211410522,
+  "val_mae": 0.9383248686790466,
+  "val_spearman": 0.24682220998416246,
+  "test_loss": 0.31315794090429944,
+  "test_rmse": 1.1788692474365234,
+  "test_mae": 0.9368228316307068,
+  "test_spearman": 0.5203880778997477
+}
