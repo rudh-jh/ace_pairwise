@@ -1,0 +1,16 @@
+﻿diag_channel_index,diag_channel_name
+0,diag_hydrophobicity
+1,diag_polarity
+2,diag_charge
+3,diag_aromaticity
+4,diag_volume
+5,diag_hbond_donor
+6,diag_hbond_acceptor
+7,diag_pro_flag
+8,diag_gly_flag
+9,diag_branched_chain_flag
+10,diag_aromatic_residue_flag
+11,diag_is_n_terminal
+12,diag_is_c_terminal
+13,diag_is_internal
+14,diag_valid_flag

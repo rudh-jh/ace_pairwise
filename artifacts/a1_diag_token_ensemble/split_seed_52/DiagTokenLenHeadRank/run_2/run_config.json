@@ -1,0 +1,51 @@
+{
+  "split_seed": 52,
+  "run_seed": 2,
+  "effective_seed": 52002,
+  "variant_name": "DiagTokenLenHeadRank",
+  "variant_cfg": {
+    "hidden_dim": 64,
+    "num_blocks": 2,
+    "dropout": 0.18,
+    "lr": 0.001,
+    "weight_decay": 0.0003,
+    "mse_alpha": 0.05,
+    "rank_lambda": 0.02,
+    "select_by": "combined"
+  },
+  "n_diag_channels": 15,
+  "diag_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "diag_names": [
+    "diag_hydrophobicity",
+    "diag_polarity",
+    "diag_charge",
+    "diag_aromaticity",
+    "diag_volume",
+    "diag_hbond_donor",
+    "diag_hbond_acceptor",
+    "diag_pro_flag",
+    "diag_gly_flag",
+    "diag_branched_chain_flag",
+    "diag_aromatic_residue_flag",
+    "diag_is_n_terminal",
+    "diag_is_c_terminal",
+    "diag_is_internal",
+    "diag_valid_flag"
+  ]
+}
