@@ -1,0 +1,6 @@
+﻿metric,value
+train_main_rows,328
+val_main_rows,70
+test_main_rows,70
+aux_rows,342
+train_joint_rows,670

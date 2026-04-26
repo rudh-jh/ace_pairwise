@@ -1,0 +1,14 @@
+﻿metric,value
+main_rows,468.0
+aux_rows,342.0
+joint_rows,810.0
+main_unique_seq,468.0
+aux_unique_seq,342.0
+joint_unique_seq,810.0
+main_pIC50_min,1.6989700043360187
+main_pIC50_max,6.823908740944319
+aux_pIC50_min,2.199282921717615
+aux_pIC50_max,8.0
+joint_weight_min,0.35
+joint_weight_max,1.0
+joint_weight_mean,0.6605308641975308

@@ -1,0 +1,17 @@
+﻿metric,value
+master_rows,810.0
+main_2_3_rows,468.0
+aux_4_5_rows,342.0
+trace_rows,2796.0
+unique_sequence_master,810.0
+unique_sequence_main,468.0
+unique_sequence_aux,342.0
+pIC50_min_master,1.6989700043360187
+pIC50_max_master,8.0
+pIC50_mean_master,4.058777529695674
+weight_min_master,0.35
+weight_max_master,1.0
+weight_mean_master,0.6605308641975308
+merged_backbone_rows,468.0
+conflict_flag_rows,0.0
+multi_source_rows,575.0

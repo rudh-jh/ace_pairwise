@@ -1,0 +1,9 @@
+﻿metric,value
+master_total_rows,810
+main_2_3_rows,468
+aux_4_5_rows,342
+trace_rows,2796
+merged_backbone_rows,468
+non_merged_aggregated_rows,342
+multi_source_rows,575
+single_source_rows,235

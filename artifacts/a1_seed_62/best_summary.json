@@ -1,0 +1,9 @@
+{
+  "best_epoch": 5,
+  "best_monitor": "val_rmse",
+  "best_metric": 0.9849423170089722,
+  "test_loss": 0.29752065738042194,
+  "test_rmse": 1.0289645195007324,
+  "test_mae": 0.8005180358886719,
+  "test_spearman": 0.46194896216492304
+}

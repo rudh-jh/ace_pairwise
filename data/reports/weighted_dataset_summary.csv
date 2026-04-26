@@ -1,0 +1,7 @@
+﻿metric,value
+master_rows,810.0
+main_rows,468.0
+aux_rows,342.0
+sample_weight_min,0.35
+sample_weight_max,1.0
+sample_weight_mean,0.6605308641975308

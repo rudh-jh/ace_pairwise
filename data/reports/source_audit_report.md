@@ -1,0 +1,73 @@
+# Source Audit Report
+
+## Existing Sources
+
+### merged_short_23
+- path: `E:\MYS\PepDB\DB\worksets\ace\merged\ace_short_2_3_merged_sequence_level_v0_3.csv`
+- rows: 575
+- cols: 27
+- sequence_col_guess: `sequence`
+- length_col_guess: `peptide_length`
+- unique_sequence_count: 575.0
+- min_seq_len_observed: 2.0
+- max_seq_len_observed: 3.0
+- all_columns: sequence | peptide_length | source_count | source_name_set | record_count_total | record_count_ahtpdb | record_count_biopep | record_count_mbpdb | record_count_fermfooddb | merged_record_id_list | source_record_id_list | species_set | protein_id_set | doi_set | ic50_relation_set | ic50_status_set | ic50_uM_min | ic50_uM_max | ic50_uM_mean | ic50_uM_median | ic50_spread_ratio_max_min | cross_source_overlap_flag | stability_flag | stability_note | bibliographic_year_min | bibliographic_year_max | database_reference_raw_set
+
+### merged_tiers
+- path: `E:\MYS\PepDB\DB\worksets\ace\merged\ace_short_2_3_consensus_tiers_v0_1.csv`
+- rows: 575
+- cols: 31
+- sequence_col_guess: `sequence`
+- length_col_guess: `peptide_length`
+- unique_sequence_count: 575.0
+- min_seq_len_observed: 2.0
+- max_seq_len_observed: 3.0
+- all_columns: sequence | peptide_length | source_count | source_name_set | record_count_total | record_count_ahtpdb | record_count_biopep | record_count_mbpdb | record_count_fermfooddb | ic50_uM_min | ic50_uM_max | ic50_uM_mean | ic50_uM_median | ic50_spread_ratio_max_min | cross_source_overlap_flag | stability_flag | stability_note | consensus_tier | consensus_score | consensus_note | high_confidence_flag | conflict_flag | source_richness_flag | bibliographic_year_min | bibliographic_year_max | merged_record_id_list | source_record_id_list | species_set | protein_id_set | doi_set | database_reference_raw_set
+
+### biopep_core
+- path: `E:\MYS\PepDB\DB\worksets\ace\biopep_uwm\biopep_uwm_ic50_core_sequence_level.csv`
+- rows: 799
+- cols: 17
+- sequence_col_guess: `sequence`
+- length_col_guess: `peptide_length`
+- unique_sequence_count: 799.0
+- min_seq_len_observed: 2.0
+- max_seq_len_observed: 19.0
+- all_columns: sequence | peptide_length | record_count | record_id_list | source_record_id_list | source_name_set | ic50_parse_status_set | ic50_relation_set | ic50_uM_min | ic50_uM_max | ic50_uM_mean | ic50_uM_median | ic50_spread_ratio_max_min | bibliographic_year_min | bibliographic_year_max | detail_report_url_list | notes_set
+
+### mbpdb_core
+- path: `E:\MYS\PepDB\DB\worksets\ace\mbpdb\mbpdb_ace_core_sequence_level.csv`
+- rows: 334
+- cols: 20
+- sequence_col_guess: `sequence`
+- length_col_guess: `peptide_length`
+- unique_sequence_count: 334.0
+- min_seq_len_observed: 2.0
+- max_seq_len_observed: 30.0
+- all_columns: sequence | peptide_length | record_count | record_id_list | source_record_id_list | species_set | protein_id_set | protein_description_set | doi_set | ic50_relation_set | ic50_parse_status_set | ic50_uM_min | ic50_uM_max | ic50_uM_mean | ic50_uM_median | ic50_spread_ratio_max_min | bibliographic_year_min | bibliographic_year_max | title_set | notes_set
+
+### ferm_strict_core
+- path: `E:\MYS\PepDB\DB\worksets\ace\fermfoodb\fermfoodb_ace_core_strict_sequence_level.csv`
+- rows: 153
+- cols: 27
+- sequence_col_guess: `sequence`
+- length_col_guess: `peptide_length`
+- unique_sequence_count: 153.0
+- min_seq_len_observed: 2.0
+- max_seq_len_observed: 27.0
+- all_columns: sequence | peptide_length | record_count | source_record_id_list | record_id_list | activity_label_set | food_matrix_set | protein_set | culture_set | hydrolysis_set | experiment_set | model_set | assay_set | method_of_analysis_set | pubmed_id_set | title_set | ic50_status_set | ic50_relation_set | ic50_uM_min | ic50_uM_max | ic50_uM_mean | ic50_uM_median | ic50_spread_ratio_max_min | stability_flag | stability_note | bibliographic_year_min | bibliographic_year_max
+
+### ahtpdb_clean_um
+- path: `E:\MYS\PepDB\DB\standardized\ace\ahtpdb\ahtpdb_master_clean_um_expanded.csv`
+- rows: 5978
+- cols: 48
+- sequence_col_guess: `None`
+- length_col_guess: `None`
+- unique_sequence_count: nan
+- min_seq_len_observed: nan
+- max_seq_len_observed: nan
+- all_columns: id | table_from | appears_in_ic50_table | sequence_raw | sequence_clean | sequence_valid | sequence_has_noncanonical_char | len_raw | len_value_raw | len_clean | len_match | molwt_raw | molwt_value | ic50_raw_base | ic50_raw_ic50tbl | ic50_raw | ic50_merge_conflict_flag | ic50_type | ic50_relation | ic50_value | ic50_low | ic50_high | ic50_unit_raw | ic50_uM | ic50_exact_flag | ic50_parse_note | source_raw | mice_raw | method_raw | assay_raw | bitter_raw | pi_raw | bp_raw | sequence_dup_count | is_duplicate_sequence | exact_ic50_unique_count_by_sequence | exact_ic50_conflict_flag | reverse_sequence | reverse_exists_flag | n_terminal_aa | c_terminal_aa | is_dipeptide | is_tripeptide | unit_conversion_applied | unit_conversion_from_unit | unit_conversion_to_unit | unit_conversion_formula | unit_conversion_note
+
+## Missing Sources
+
+None.

@@ -1,0 +1,6 @@
+﻿source_name,input_rows,kept_rows,dropped_rows,kept_unique_sequence,kept_min_len,kept_max_len
+merged_short23_tiered_standardized,575,468,107,468,2,3
+biopep_core_standardized,799,428,371,428,2,5
+mbpdb_core_standardized,334,150,184,150,2,5
+ferm_strict_core_standardized,153,69,84,69,2,5
+ahtpdb_clean_um_standardized,5978,1681,4297,567,2,5

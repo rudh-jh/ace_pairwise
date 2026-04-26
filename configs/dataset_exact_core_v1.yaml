@@ -1,0 +1,27 @@
+project_name: ACE_pre
+dataset_name: ace_exact_core_v1
+
+paths:
+  pepdb_root: E:/MYS/PepDB
+  ace_pre_root: E:/MYS/ACE_pre
+
+inputs:
+  merged_short_23: DB/worksets/ace/merged/ace_short_2_3_merged_sequence_level_v0_3.csv
+  merged_tiers: DB/worksets/ace/merged/ace_short_2_3_consensus_tiers_v0_1.csv
+  biopep_core: DB/worksets/ace/biopep_uwm/biopep_uwm_ic50_core_sequence_level.csv
+  mbpdb_core: DB/worksets/ace/mbpdb/mbpdb_ace_core_sequence_level.csv
+  ferm_strict_core: DB/worksets/ace/fermfoodb/fermfoodb_ace_core_strict_sequence_level.csv
+  ahtpdb_clean_um: DB/standardized/ace/ahtpdb/ahtpdb_master_clean_um_expanded.csv
+
+outputs:
+  report_dir: data/reports
+  interim_dir: data/interim
+  final_dir: data/final
+
+filters:
+  min_len: 2
+  max_len: 5
+  exact_continuous_only: true
+  keep_threshold: false
+  keep_range: false
+  allow_reverse_merge: false

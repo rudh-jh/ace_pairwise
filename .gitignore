@@ -1,0 +1,36 @@
+# virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# system / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
+*.env
+
+# model / heavy binary files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.joblib
+*.dll
+
+# generated cache / logs
+.cache/
+logs/
+runs/
+outputs/

@@ -1,0 +1,6 @@
+﻿dataset_name,output_path,n_rows,n_cols,non_null_sequence,canonical_true,label_is_exact_true,min_length,max_length
+merged_short23_tiered_standardized,E:\MYS\ACE_pairwise\data\interim\standardized\merged_short23_tiered_standardized.csv,575,25,575,575,575,2,3
+biopep_core_standardized,E:\MYS\ACE_pairwise\data\interim\standardized\biopep_core_standardized.csv,799,25,799,799,799,2,19
+mbpdb_core_standardized,E:\MYS\ACE_pairwise\data\interim\standardized\mbpdb_core_standardized.csv,334,25,334,334,334,2,30
+ferm_strict_core_standardized,E:\MYS\ACE_pairwise\data\interim\standardized\ferm_strict_core_standardized.csv,153,25,153,153,153,2,27
+ahtpdb_clean_um_standardized,E:\MYS\ACE_pairwise\data\interim\standardized\ahtpdb_clean_um_standardized.csv,5978,25,5978,5942,2581,2,50
