@@ -5,6 +5,7 @@ paths:
   artifacts_dir: artifacts/a1_seed_42
   baseline_artifacts_dir: artifacts/baselines_seed_42
   a1flat_artifacts_dir: artifacts/a1flat_baselines_seed_42
+  fair_baseline_artifacts_dir: artifacts/fair_baselines_seed_42
 split:
   seed: 42
   val_ratio: 0.15
