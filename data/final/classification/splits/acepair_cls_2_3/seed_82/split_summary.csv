@@ -1,0 +1,16 @@
+﻿dataset,seed,split,metric,value
+acepair_cls_2_3,82,train,n_total,299
+acepair_cls_2_3,82,train,cls_label_0,180
+acepair_cls_2_3,82,train,cls_label_1,119
+acepair_cls_2_3,82,train,length_2,90
+acepair_cls_2_3,82,train,length_3,209
+acepair_cls_2_3,82,valid,n_total,75
+acepair_cls_2_3,82,valid,cls_label_0,45
+acepair_cls_2_3,82,valid,cls_label_1,30
+acepair_cls_2_3,82,valid,length_2,30
+acepair_cls_2_3,82,valid,length_3,45
+acepair_cls_2_3,82,test,n_total,94
+acepair_cls_2_3,82,test,cls_label_0,56
+acepair_cls_2_3,82,test,cls_label_1,38
+acepair_cls_2_3,82,test,length_2,31
+acepair_cls_2_3,82,test,length_3,63

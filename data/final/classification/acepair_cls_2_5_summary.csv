@@ -1,0 +1,11 @@
+﻿dataset,metric,value
+acepair_cls_2_5,n_total,810
+acepair_cls_2_5,cls_label_0,479
+acepair_cls_2_5,cls_label_1,331
+acepair_cls_2_5,label_low_or_weak_activity,479
+acepair_cls_2_5,label_high_activity,331
+acepair_cls_2_5,length_2,151
+acepair_cls_2_5,length_3,317
+acepair_cls_2_5,length_4,155
+acepair_cls_2_5,length_5,187
+acepair_cls_2_5,conflict_flag_False,810
