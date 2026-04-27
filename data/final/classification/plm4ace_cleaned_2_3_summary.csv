@@ -1,0 +1,8 @@
+﻿dataset,metric,value
+plm4ace_cleaned_2_3,n_total,326
+plm4ace_cleaned_2_3,cls_label_0,203
+plm4ace_cleaned_2_3,cls_label_1,123
+plm4ace_cleaned_2_3,label_low_or_non_activity,203
+plm4ace_cleaned_2_3,label_high_activity,123
+plm4ace_cleaned_2_3,length_2,122
+plm4ace_cleaned_2_3,length_3,204

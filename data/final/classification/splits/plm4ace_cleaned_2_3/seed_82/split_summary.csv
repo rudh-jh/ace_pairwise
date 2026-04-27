@@ -1,0 +1,16 @@
+﻿dataset,seed,split,metric,value
+plm4ace_cleaned_2_3,82,train,n_total,208
+plm4ace_cleaned_2_3,82,train,cls_label_0,130
+plm4ace_cleaned_2_3,82,train,cls_label_1,78
+plm4ace_cleaned_2_3,82,train,length_2,84
+plm4ace_cleaned_2_3,82,train,length_3,124
+plm4ace_cleaned_2_3,82,valid,n_total,52
+plm4ace_cleaned_2_3,82,valid,cls_label_0,32
+plm4ace_cleaned_2_3,82,valid,cls_label_1,20
+plm4ace_cleaned_2_3,82,valid,length_2,14
+plm4ace_cleaned_2_3,82,valid,length_3,38
+plm4ace_cleaned_2_3,82,test,n_total,66
+plm4ace_cleaned_2_3,82,test,cls_label_0,41
+plm4ace_cleaned_2_3,82,test,cls_label_1,25
+plm4ace_cleaned_2_3,82,test,length_2,24
+plm4ace_cleaned_2_3,82,test,length_3,42

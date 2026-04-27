@@ -103,7 +103,7 @@ def main() -> None:
     parser.add_argument(
         "--dataset",
         default="acepair_cls_2_3",
-        choices=["acepair_cls_2_3", "acepair_cls_2_5"],
+        # choices=["acepair_cls_2_3", "acepair_cls_2_5"],
     )
     parser.add_argument(
         "--data_dir",
